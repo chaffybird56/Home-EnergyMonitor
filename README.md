@@ -12,10 +12,10 @@ This repo includes everything to run locally with **Docker** (broker + app) plus
 ## 📸 Screenshots
 
 - **Feeder Load — last 24h (kW)**  
-<img width="700" height="500" alt="SCR-20250929-pviq" src="https://github.com/user-attachments/assets/9c723d47-250c-4d78-8b65-8ead9b0d1b82" />
+<img width="600" height="500" alt="SCR-20250929-pviq" src="https://github.com/user-attachments/assets/9c723d47-250c-4d78-8b65-8ead9b0d1b82" />
 
 - **Average Voltage across meters (V)**  
-<img width="700" height="500" alt="SCR-20250929-pvji" src="https://github.com/user-attachments/assets/a4b089dd-ea04-457e-b93a-cf604be50817" />
+<img width="600" height="500" alt="SCR-20250929-pvji" src="https://github.com/user-attachments/assets/a4b089dd-ea04-457e-b93a-cf604be50817" />
 
 - **Terminal — simulated meter publishes**  
 <img width="600" height="500" alt="SCR-20250929-psvj" src="https://github.com/user-attachments/assets/7125da87-caa9-479a-a940-0cae6b597895" />
