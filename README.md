@@ -44,7 +44,7 @@ payload: {
 ### Option A — Docker (recommended)
 
 ```bash
-git clone https://github.com/yourname/home-energy-monitor
+git clone https://github.com/chaffybird56/home-energy-monitor
 cd home-energy-monitor
 cp .env.example .env
 docker compose up --build
