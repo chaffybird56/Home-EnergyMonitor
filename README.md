@@ -5,7 +5,7 @@ A practical, demo‑ready system for **collecting smart‑meter telemetry** and 
 - Catch **data gaps** or suspicious values with **data‑quality checks** and **alarms**.
 - Roll up **daily energy (kWh)**, **peak kW**, and **min voltage** for maintenance/outage coordination.
 
-This repo includes everything to run locally with **Docker** (broker + app) plus a **data simulator** so you can showcase the dashboard right away—perfect for **portfolios, prototypes, and internal demos**.
+This repo includes everything to run locally with **Docker** (broker + app) plus a **data simulator**
 
 ---
 
